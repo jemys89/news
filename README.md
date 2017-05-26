@@ -32,4 +32,38 @@ Fins a + 2 punts: acabat final (o dit d'un altra forma: complir les especificaci
 
 
 Idea principal:
+Adjunto la idea principal solicitada por el cliente
+
+![alt text](https://rawgit.com/jemys89/news/master/news/img/imagenReadme.jpg)
+
+¿De que trata el proyecto?
+
+Página de noticias en la cual hay que dejar predefinidas 3 noticias en el html, y al hacer "scroll" tienen que cargarse 3 noticias más a través de JSON y JQuery, mínimo se tiene que poder hacer 2 veces scroll. Tienen que poder abrirse las dos primeras noticias en otra plantilla, la cual tiene que ser la misma plantilla.
+
+
+
+
+V1 Añadido twitter debajo de la publicidad.
+
+V2 Añadido banner de patrocinadores en el pie de la página.
+
+v3 Añadidos Recursos en el footer enlaces en los cuales he recolectado las noticias.
+
+v4 Cambiada imagen del header en vez de 200 px de alto por una de 150 px
+
+v5 Cambiada la imagen de la publicidad en la versión movil por un gif de apuestas deportivas.
+
+v6 Se le han añadido lineas con sobras justo encima de cada noticia.
+
+v7 Se le ha quitado el widget de "EL PAÍS" por problemas técnicos al cargar la página.
+
+v8 Añadidos iconos iteractivos en el footer (facebook, twitter, google y youtube)
+
+v9 Añadido botón de de facebook con contador de noticias compartidas en las páginas news1 y news2 
+
+
+
+
+
+
 
